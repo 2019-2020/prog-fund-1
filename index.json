@@ -1,0 +1,85 @@
+
+
+
+  {
+  
+  
+    "properties" : {"highlightstyle":"railscasts","courseurl":"http://2019-2020.github.io/prog-fund-1/","credits":"Dr. Siobhan Drohan and Ms. Mairead Meagher, WIT."},
+  
+  "type" : "course",
+  "title" : "Programming Fundamentals 1 ",
+  "img" : "",
+  "videoid" : "",
+  "objectives" : "<p>This is an introductory Programming module and assumes no prior knowledge of programming. </p>",
+  "folder" : "prog-fund-1",
+  "link" : "index.html",
+  "los": [
+   ]
+,
+  "topics" : [  {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " 1: Introduction to Processing ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>processing · java · drawing shapes · colour · grayscale · RGB · syntax errors · commenting code</p>",
+  "folder" : "topic01-intro-to-processing",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Coding in Processing ",
+  "img" : "a-intro-to-processing.png",
+  "videoid" : "none",
+  "objectives" : "<p>Processing · introduction to coding · drawing basic shapes</p>",
+  "folder" : "talk-1-intro-to-processing",
+  "link" : "a-intro-to-processing.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Static Drawings ",
+  "img" : "b-processing-static-drawings.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>static drawings · colour · grayscale · RGB · fill · stroke · logic errors · syntax errors · commenting code</p>",
+  "folder" : "talk-2-static-drawings",
+  "link" : "b-processing-static-drawings.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-01",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Processing PDE · drawing basic shapes · colour · grayscale · RGB</p>",
+  "folder" : "book-1",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  }
+ ]
+  }
+
